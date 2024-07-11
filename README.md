@@ -7,3 +7,4 @@ Projects:
 3. Calendar (unstarted, incomplete)
 4. Phone book (unstarted, incomplete)
 5. Unit converter (unstarted, incomplete)
+6. To watch/read list (unstarted, incomplete)
