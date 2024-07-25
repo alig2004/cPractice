@@ -1,7 +1,8 @@
 /*
-Program: Simple calculator
+Program: Simple calculator to allow for addition, subtraction, multiplication and division
 Author: Alison Gleeson
-Date: 11/07/2024
+Date created: 11/07/2024
+Date updated: 25/07/2024
 */
 
 
